@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Daniel</h1>
+<h1 align="center">Hi, I'm Daniel</h1>
 <h3 align="center">A passionate Java/Kotlin/Go backend and Flutter developer from Germany</h3>
 
 - Currently I am studying computer science at **KIT**
